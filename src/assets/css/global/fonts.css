@@ -1,29 +1,29 @@
 @font-face {
-  font-family: Inter;
+  font-family: Karla;
   font-style: normal;
   font-display: swap;
   font-weight: 400;
-  src: local(''), url(/assets/fonts/inter/inter-v7-latin-500.woff2) format('woff2'),
-    url(/assets/fonts/inter/inter-v7-latin-500.woff) format('woff');
+  src: local(''), url(/assets/fonts/Karla/karla-variablefont_wght-webfont.woff2) format('woff2'),
+    url(/assets/fonts/Karla/karla-variablefont_wght-webfont.woff) format('woff');
 }
 
 @font-face {
-  font-family: Inter;
+  font-family: Honk;
   font-style: normal;
   font-display: swap;
-  font-weight: 700;
-  src: local(''), url(/assets/fonts/inter/inter-v7-latin-700.woff2) format('woff2'),
-    url(/assets/fonts/inter/inter-v7-latin-700.woff) format('woff');
+  font-weight: 400;
+  src: local(''), url(/assets/fonts/Honk/honk-regular-variablefont_morfshln-webfont.woff2) format('woff2'),
+    url(/assets/fonts/Honk/honk-regular-variablefont_morfshln-webfont.woff) format('woff');
 }
 
 @font-face {
-  font-family: Redhat;
+  font-family: Honk;
   font-style: normal;
   font-display: swap;
-  font-weight: 700;
+  font-weight: 400;
   src: local(''),
-    url(/assets/fonts/redhat/red-hat-display-v7-latin-900.woff2) format('woff2'),
-    url(/assets/fonts/redhat/red-hat-display-v7-latin-900.woff) format('woff');
+    url(/assets/fonts/Honk/honk-regular-variablefont_morfshln-webfont.woff2) format('woff2'),
+    url(/assets/fonts/Honk/honk-regular-variablefont_morfshln-webfont.woff) format('woff');
 }
 
 @font-face {
