@@ -9,7 +9,7 @@
 
 @font-face {
   font-family: Cinzel;
-  font-style: normal;
+  font-style: bold;
   font-display: swap;
   font-weight: 700;
   src: local(''), url(/assets/fonts/Cinzel/cinzel-variablefont_wght-webfont.woff2) format('woff2'),
